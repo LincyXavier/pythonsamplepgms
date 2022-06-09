@@ -1,2 +1,1 @@
-# pythonsamplepgms
 print('hello world')
