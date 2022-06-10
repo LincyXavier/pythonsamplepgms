@@ -1,6 +1,3 @@
 a=int(input('enter a number'))
 b=int(input('enter a number'))
-print(a+b)
-print(a-b)
-print(a*b)
-print(a/b)
+print('sum is =',a+b, 'substraction is =',a-b, 'product is =',a*b, 'division is=',a/b)
