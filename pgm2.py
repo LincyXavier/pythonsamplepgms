@@ -1,3 +1,6 @@
-a=int(input('enter a number'))
-b=int(input('enter a number'))
-print('sum is =',a+b, 'substraction is =',a-b, 'product is =',a*b, 'division is=',a/b)
+a=4
+b=5
+a=a+b
+b=a-b
+a=a-b
+print(a,b)
