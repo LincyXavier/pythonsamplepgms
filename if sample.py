@@ -10,4 +10,9 @@ if a==2:
 
         if c==11:
             print('third condition')
-            
+        else:
+            print('third is false')
+    else:
+        print('second is false')
+else:
+    print("third is false")                
