@@ -1,6 +1,4 @@
-a=4
-b=5
-a=a+b
-b=a-b
-a=a-b
-print(a,b)
+a=float(input('enter a no'))
+b=float(input('enter a no'))
+
+print(a+b)
